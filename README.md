@@ -1,0 +1,2 @@
+# LearningCurve
+Learning cool stuff
